@@ -1,0 +1,16 @@
+[
+  {"name":"스프린트/1","color":"0E8A16","description":"스프린트 1 (W1–W2)"},
+  {"name":"스프린트/2","color":"006B75","description":"스프린트 2 (W3–W4)"},
+  {"name":"스프린트/3","color":"0052CC","description":"스프린트 3 (W5–W6)"},
+  {"name":"스프린트/4","color":"D73A49","description":"스프린트 4 (W7–W8)"},
+  {"name":"우선순위/높음","color":"B60205","description":"높음"},
+  {"name":"우선순위/중간","color":"DBAB09","description":"중간"},
+  {"name":"우선순위/낮음","color":"0E8A16","description":"낮음"},
+  {"name":"영역/프론트엔드","color":"0E8A16","description":"프론트엔드 관련 작업"},
+  {"name":"영역/백엔드","color":"0052CC","description":"백엔드 관련 작업"},
+  {"name":"영역/인프라","color":"5319E7","description":"인프라 관련 작업"},
+  {"name":"목적/기능","color":"0366D6","description":"새로운 기능 개발"},
+  {"name":"목적/버그","color":"D73A49","description":"버그 수정"},
+  {"name":"목적/리팩터링","color":"6F42C1","description":"코드 리팩터링"},
+  {"name":"목적/문서","color":"FF66A0","description":"문서 작업"}
+]
