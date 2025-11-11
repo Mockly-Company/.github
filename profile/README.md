@@ -14,8 +14,8 @@ AI 기술을 통해 면접 질문 생성, 답변 분석, 코드 리뷰 등 다�
 ---
 
 ## 📄 문서 바로가기
-[**서비스 기획서**](https://mockly.atlassian.net/wiki/spaces/mockly/pages/1540104/Mockly+-)
-[**기능정의서**](https://mockly.atlassian.net/wiki/spaces/mockly/pages/1671172)
+[**서비스 기획서**](https://mockly.atlassian.net/wiki/external/Mzg4NzZjZTcxNmM5NGM4MGI2ZjY3OWQ5MGRiZWM4YzQ) | 
+[**MVP 기능정의서**](https://mockly.atlassian.net/wiki/external/ZjA4NjMxY2FiMzhlNDc5OWIyMzM2NzY1OTkyNmRlOTQ)
 
 ---
 
