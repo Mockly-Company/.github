@@ -18,7 +18,7 @@ AI 기술을 통해 면접 질문 생성, 답변 분석, 코드 리뷰 등 다�
 - [**MVP 기능정의서**](https://mockly.atlassian.net/wiki/external/ZjA4NjMxY2FiMzhlNDc5OWIyMzM2NzY1OTkyNmRlOTQ)
 - [**개인정보 처리방침**](https://mockly.atlassian.net/wiki/external/NDVjYTAwN2U2MDViNDZjOGEyYzdhMTYwYjY5OGY3OGU)
 - [**이용약관**](https://mockly.atlassian.net/wiki/external/MTAxMWQ4NjNjMDgyNDJkZGE4YWJkMmE3YTdhMWM3NWY)
-- [**디자인 시스템**](https://69324aeddcbd1324310464e9-tcmytslxpa.chromatic.com/)-권한필요.
+- [**디자인 시스템**](https://69324aeddcbd1324310464e9-tcmytslxpa.chromatic.com/)
 ---
 
 ## 📂 레포지토리
@@ -85,7 +85,9 @@ AI 기술을 통해 면접 질문 생성, 답변 분석, 코드 리뷰 등 다�
     <td><image src="https://github.com/user-attachments/assets/5f3a634e-6d5f-4544-8bc6-b225bf8e3f30" style="width:300;"></image></td>
     <td><image src="https://github.com/user-attachments/assets/e9408cb8-872a-45e4-ba31-6883f859233a" style="width:300;"></image></td>
         <td><image src="https://github.com/user-attachments/assets/c11f1b8b-686e-435d-b64f-4a7a3818ee20" style="width:300;"></image></td>
-        <td><image src="https://github.com/user-attachments/assets/0f9f4d8a-56dc-4727-b6d5-c7bf5bd3c12e" style="width:300;"></image></td>
+        <td><image src="https://github.com/user-attachments/assets/0f9f4d8a-56dc-4727-b6d5-c7bf5bd3c12e" style="width:300;">
+          <a href="https://69324aeddcbd1324310464e9-tcmytslxpa.chromatic.com/">디자인 시스템 보러가기</a>
+        </image></td>
   </tr>
 </table>
 
