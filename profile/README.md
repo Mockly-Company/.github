@@ -20,6 +20,9 @@ AI 기술을 통해 면접 질문 생성, 답변 분석, 코드 리뷰 등 다�
 - [**이용약관**](https://mockly.atlassian.net/wiki/external/MTAxMWQ4NjNjMDgyNDJkZGE4YWJkMmE3YTdhMWM3NWY)
 - [**디자인 시스템**](https://69324aeddcbd1324310464e9-giibikyaod.chromatic.com/)
 ---
+## 도메인별 자료 바로가기
+- [**인증 설계**](./Auth/README.md)
+
 
 ## 📂 레포지토리
 
